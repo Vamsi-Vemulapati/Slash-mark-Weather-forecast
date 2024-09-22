@@ -30,3 +30,5 @@ Welcome to WeatherCheck, your go-to web application for real-time weather foreca
 5. Submit a pull request for review.
 
 WeatherCheck is not just a weather app; it's a community-driven project aimed at making weather forecasting accessible and user-friendly. Join us on this exciting journey to create a seamless weather-checking experience for users worldwide!
+
+Nene clone chesaa bro......
